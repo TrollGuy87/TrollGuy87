@@ -1,4 +1,10 @@
 ## Hi there 👋
+ _____          _ _  ____              ___ _____ 
+|_   _| __ ___ | | |/ ___|_   _ _   _ ( _ )___  |
+  | || '__/ _ \| | | |  _| | | | | | |/ _ \  / / 
+  | || | | (_) | | | |_| | |_| | |_| | (_) |/ /  
+  |_||_|  \___/|_|_|\____|\__,_|\__, |\___//_/   
+                                |___/            
 
 <!--
 **TrollGuy87/TrollGuy87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
