@@ -2,8 +2,8 @@
 
                                                      TrollGuy87@TrollOS
                                                      --------------------
-                                             ___     OS: CachyOS x86_64
-                                          ,o88888    Kernel: Linux 7.2.5-1-cachyos
+                                             ___     OS: TrollOS
+                                          ,o88888    Kernel: Trolix
                                        ,o8888888'    Uptime: 10 hours, 1 min
                  ,:o:o:oooo.        ,8O88Pd8888"     Packages: 14 (flatpak), 1864 (pacman)
              ,.::.::o:ooooOoOoO. ,oO8O8Pd888'"       Shell: fish 4.9.3
